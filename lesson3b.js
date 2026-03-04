@@ -35,3 +35,9 @@ let squares =number.map(num => num**2)
 console.log(squares)
 
 //check the tasks on page 30 of the book
+for (let i = 1; i<=19; i+=2){
+    console.log(i);
+}
+for (let i = 10; i>=1; i--){
+    console.log(i);
+}
