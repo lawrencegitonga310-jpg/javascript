@@ -9,9 +9,3 @@ const greet = function(){
 }
 console.log(typeof(greet))
 greet()
-
-console.log("+===========")
-//below is another function
-(function(){
-    console.log("Welcome to the world of programming...")
-})();
